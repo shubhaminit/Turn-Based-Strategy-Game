@@ -6,14 +6,14 @@ There are ***4*** rooms in this game and every room has ***2*** enemy characters
 
 ## User Interface
 
-The game scene starts with 4 player characters and 2 enemies in front. There is a red bar on top of the character, that is the **Health Bar**. There are numbers depicted with the bar that are called **Turns** that dipicts the number of turns left for a specific fighter. The maximum numbers of turn given to a single fighter is 3, Therefore the total number of turns you get are 12. There are *6* options given below namely **move, spin, shoot, grenade, sword, interact** with each performing their specific functions as:-
+The game scene starts with 4 player characters and 2 enemies in front. There is a red bar on top of the character, that is the **Health Bar**. There are numbers depicted with the bar that are called **Action Points** that dipicts the number of turns left for a specific fighter. The maximum numbers of turn given to a single fighter is 3, Therefore the total number of turns you get are 12. There are *6* options given below namely **move, spin, shoot, grenade, sword, interact** with each performing their specific functions as:-
 
-1. The `move` helps you to move your character to the block you select. It takes one Turns.
-2. The `spin` spins the character at it's axis. It takes one Turns.
-3. The `shoot` makes player fire the gun at the enemy. It takes one Turns.
-4. The `grenade` throws a grenade at the enemy and deals damege at splash. It takes one Turns.
-5. The `sword` works on close range and kills enemy in one short. It takes one Turns.
-6. The `interact` interacts with any object fallen on the ground. It takes one Turns.
+1. The `move` helps you to move your character to the block you select. It takes one action point.
+2. The `spin` spins the character at it's axis. It takes one action point.
+3. The `shoot` makes player fire the gun at the enemy. It takes one action point.
+4. The `grenade` throws a grenade at the enemy and deals damege at splash. It takes one action point.
+5. The `sword` works on close range and kills enemy in one short. It takes one action point.
+6. The `interact` interacts with any object fallen on the ground. It takes one action point.
 
 Then there is an **END TURN** option on the top-right corner which is used if you don't want to use your turns or all of your turns are used.
 
