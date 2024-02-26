@@ -29,10 +29,6 @@ We use our **Left-Click** to help the character move to the block that we click 
 
 ![image](https://github.com/shubhaminit/Turn-Based-Strategy-Game/assets/146417747/63685a2b-cf82-425e-b7c1-c05c18039249)
 
-
-### Gameplay
-
-
 ### Authors
 <a href="https://github.com/shubhaminit/Turn-Based-Strategy-Game/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=shubhaminit/Turn-Based-Strategy-Game" />
