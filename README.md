@@ -18,7 +18,7 @@ The game scene starts with 4 player characters and 2 enemies in front. There is 
 Then there is an **END TURN** option on the top-right corner which is used if you don't want to use your turns or all of your turns are used.
 
 ## In This Game
-We use our **Left-Click** to help the character move to the block that we click upon. The player can decide either *to shoot*, *to throw a grenade*, or *to use the sword*.
+We use our **Left-Click** to help the character move to the block that we click upon. The **W,A,S,D** keys are used to move the camera in the game. The player can decide either *to shoot*, *to throw a grenade*, or *to use the sword*.
 + The sword kills in [one-shot](https://en.wiktionary.org/wiki/one-shot#:~:text=(video%20games)%20To%20kill%20or%20destroy%20with%20a%20single%20hit.) but needs the character to be at the close blocks with the enemy.
 + The grenade deals [splash damage](https://en.wiktionary.org/wiki/splash_damage#:~:text=Noun,creatures%20within%20a%20certain%20radius.) but the damege delt to a single enemy is minimum.
 + The gun has a long-range and can deal a good amount of damage.
