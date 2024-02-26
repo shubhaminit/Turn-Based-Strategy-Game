@@ -1,6 +1,6 @@
 # Turn-Based-Strategy-Game
-This is a Turn-Based Stategy Game which contains 4 player characters and 4 enemy characters in the starting area with 2 added in each area after the previous area is cleared.
-There are ***4*** rooms in this game and every room has ***2*** enemy characters that unlocks once the previous room is cleared.
+This is a Turn-Based Stategy Game which contains 4 player characters and 4 enemy characters in the starting area with 2 added in each area after the previous area is cleared. The last room has 5 enemies.
+There are ***4*** rooms in this game and every room has ***2*** enemy characters that unlocks once the previous room is cleared except the last room.
 
 **An Infiltration is going on and the _4 fighters_ are entring the base area and now the job of the player is to clear all the remaining rooms by killing all the enemies in the rooms _one-by-one_.**
 
@@ -13,7 +13,7 @@ The game scene starts with 4 player characters and 2 enemies in front. There is 
 3. The `shoot` makes player fire the gun at the enemy. It takes one action point.
 4. The `grenade` throws a grenade at the enemy and deals damege at splash. It takes one action point.
 5. The `sword` works on close range and kills enemy in one short. It takes one action point.
-6. The `interact` interacts with any object fallen on the ground. It takes one action point.
+6. The `interact` interacts with any object on the ground marked with green color. It takes one action point.
 
 Then there is an **END TURN** option on the top-right corner which is used if you don't want to use your turns or all of your turns are used.
 
@@ -29,7 +29,11 @@ We use our **Left-Click** to help the character move to the block that we click 
 
 ![image](https://github.com/shubhaminit/Turn-Based-Strategy-Game/assets/146417747/63685a2b-cf82-425e-b7c1-c05c18039249)
 
-## Authors
+
+### Gameplay
+
+
+### Authors
 <a href="https://github.com/shubhaminit/Turn-Based-Strategy-Game/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=shubhaminit/Turn-Based-Strategy-Game" />
 </a>
