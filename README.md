@@ -1,4 +1,4 @@
-# Turn-Based-Strategy-Game :panda_face:
+# Turn-Based-Strategy-Game
 This is a Turn-Based Stategy Game which contains 4 player characters and 4 enemy characters in the starting area with 2 added in each area after the previous area is cleared.
 There are ***4*** rooms in this game and every room has ***2*** enemy characters that unlocks once the previous room is cleared.
 
